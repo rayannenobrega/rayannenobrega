@@ -13,11 +13,11 @@ Sou advogada e estudante de Sistemas para Internet, apesar de ter ingressado há
 
 
 
-### ⚪Linguagens Utilizadas:
+### 🟡Linguagens Utilizadas:
 
 <!--[![Estatísticas](https://github-readme-stats.vercel.app/api?username=&include_all_commits=true&hide=issues&hide_rank=true&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/raynnenobrega/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayannenobrega&count_private=true&langs_count=7&hide=php&layout=compact&hide_border=true&theme=default)](https://github.com/rayannenobrega/github-readme-stats)
 
-### 🟡Entre em contato comigo:
+### 🔵Entre em contato comigo:
 -LikedIn: https://www.linkedin.com/in/rayannenobrega/
 -E-mail: rayanne.nobrega@hotmail.com
