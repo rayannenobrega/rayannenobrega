@@ -1,3 +1,5 @@
+<img src="https://github.com/rayannenobrega/rayannenobrega/blob/main/my-octocat.png" max-width="400px" width="400px" align="right"/>
+
 ## Olá!
 
 ### 🔴Um pouco sobre mim:
