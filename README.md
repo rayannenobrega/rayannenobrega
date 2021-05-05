@@ -6,10 +6,10 @@ Sou advogada e estudante de Sistemas para Internet, apesar de ter ingressado há
 
 
 
-- 🎓 Formada em Direito
--  :computer: Estudante de Sistemas para Internet
-- :wrench:Extensionista em Qualidade de Software
-- ❤ Apaixonada por videogames e jogos online
+- Formada em Direito
+- Estudante de Sistemas para Internet
+- Extensionista em Qualidade de Software
+- Apaixonada por videogames e jogos online
 
 
 
