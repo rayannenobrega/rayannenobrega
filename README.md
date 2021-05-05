@@ -19,5 +19,7 @@ Sou advogada e estudante de Sistemas para Internet, apesar de ter ingressado há
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayannenobrega&count_private=true&langs_count=7&hide=php&layout=compact&hide_border=true&theme=default)](https://github.com/rayannenobrega/github-readme-stats)
 
 ### 🔵Entre em contato comigo:
--LikedIn: https://www.linkedin.com/in/rayannenobrega/
--E-mail: rayanne.nobrega@hotmail.com
+
+- LinkedIn:https://www.linkedin.com/in/rayannenobrega/
+- E-mail: rayanne.nobrega@hotmail.com
+
