@@ -8,9 +8,9 @@ Sou advogada e estudante de Sistemas para Internet, apesar de ter ingressado há
 
 
 
-- 📚Formada em Direito
+- 🔧Estagiária em Qualidade de Software na Conductor Tecnologia em Meios de Pagamento
 - 💻Estudante de Sistemas para Internet
-- 🔧Extensionista em Qualidade de Software
+- 📚Formada em Direito
 - ♥️Apaixonada por videogames e jogos online
 
 
